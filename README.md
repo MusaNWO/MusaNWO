@@ -28,9 +28,9 @@ Leading the charge at **New Web Order**, where we're revolutionizing the digital
 
 ### 🤝 Let's Connect!
 
-- 💼 [LinkedIn](#) <!-- Add your LinkedIn -->
-- 🐦 [Twitter](#)  <!-- Add your Twitter -->
-- 🌐 [Website](#)  <!-- Add your website -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadmusa1/) <!-- Add your LinkedIn -->
+- 🐦 [Twitter](https://x.com/musasohail007)  <!-- Add your Twitter -->
+- 🌐 [Website](www.newweborder.co)  <!-- Add your website -->
 
 ### 📈 Growth & Innovation
 
