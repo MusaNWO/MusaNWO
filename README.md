@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Leading the charge at **New Web Order**, where we're revolutionizing the digital landscape. We're not just building products; we're shaping the future of how humans interact with technology.
+Leading the charge at **Right Tail Corp**, where we're revolutionizing the digital landscape. We're not just building products; we're shaping the future of how humans interact with technology.
 
 ### 🎯 Current Focus
 
