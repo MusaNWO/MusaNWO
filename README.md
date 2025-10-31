@@ -1,7 +1,7 @@
 # 👋 Hello Digital Pioneers! I'm @MusaNWO
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=CEO+%26+Co-founder+of+New+Web+Order;Building+the+Future+of+Web3;Digital+Innovation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=CEO+%26+Co-founder+of+Right+Tail+Corp;Building+the+Future+of+Web3;Digital+Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
