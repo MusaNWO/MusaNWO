@@ -1,27 +1,27 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A96E&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=64748B&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════╗
-║   C E O  &  C O - F O U N D E R             ║
-║   Right Tail Corp  ·  Web3 · AI · UX         ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║   C E O  &  C O - F O U N D E R  ·  R I G H T  T A I L  C O R P   ║
+║   SaaS  ·  AI Agents  ·  Web3  ·  Full-Stack Engineering            ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 # Muhammad Musa
 
-**Building at the intersection of Web3, AI, and human experience.**  
+**Building AI-native SaaS and autonomous agent systems that actually work.**  
 We don't just ship products — we architect the infrastructure for what comes next.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusa1/)
 [![Twitter](https://img.shields.io/badge/X-@musasohail007-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/musasohail007)
-[![Website](https://img.shields.io/badge/Web-Righttail.co-C8A96E?style=flat-square&logo=safari&logoColor=white)](https://www.newweborder.co)
+[![Website](https://img.shields.io/badge/Web-newweborder.co-64748B?style=flat-square&logo=safari&logoColor=white)](https://www.newweborder.co)
 
 </div>
 
@@ -29,26 +29,63 @@ We don't just ship products — we architect the infrastructure for what comes n
 
 ## ◈ About
 
-I lead **Right Tail Corp**, where we're pioneering the next generation of digital infrastructure. My work sits at the crossroads of blockchain technology, AI-driven products, and seamless user experience design.
+I lead **Right Tail Corp**, a software company building at the frontier of AI-native SaaS, autonomous agent systems, and Web3 infrastructure. We partner with ambitious teams to turn complex technical challenges into elegant, scalable products.
 
-I believe the most transformative companies are the ones that understand both the technical depth *and* the human side of technology — and that's exactly what we build.
+My background spans full-stack engineering, LLM integration, blockchain architecture, and product strategy — meaning I can navigate from a system design whiteboard to a production deployment without losing context.
 
 > *"The old web connected information. The new web connects value, trust, and human potential — and we're building the bridge."*
 
 ---
 
-## ◈ Current Focus
+## ◈ What We Build
 
-| Area | What We're Building |
+| Domain | What This Looks Like in Practice |
 |---|---|
+| 🤖 **AI Agentic Systems** | Multi-agent orchestration, autonomous task pipelines, LLM-powered decision engines with tool use, memory, and reasoning loops |
+| ☁️ **SaaS Products** | End-to-end SaaS platforms — multi-tenant architecture, subscription billing, role-based access, and scalable APIs |
+| 🧠 **AI/ML Integration** | Embedding AI into existing products — RAG pipelines, fine-tuned models, semantic search, and intelligent automation |
 | 🌐 **Web3 Infrastructure** | Smart contracts, DeFi protocols, NFT ecosystems on Ethereum & Polygon |
-| 🤖 **AI/ML Integration** | LLM-powered products, intelligent automation, and ML pipelines |
 | 🤝 **Strategic Partnerships** | Cross-industry growth, technology alliances, and joint ventures |
-| 🎨 **UX Engineering** | Seamless, intuitive experiences that bridge complexity with clarity |
+| 🎨 **UX Engineering** | Interfaces that make complex AI and blockchain products feel effortless |
+
+---
+
+## ◈ AI & Agentic Development
+
+The next wave of software isn't just AI-assisted — it's AI-operated. At Right Tail Corp, we design and ship **autonomous agent systems** built for real-world complexity:
+
+- **Multi-agent orchestration** — Coordinating specialized agents across tasks, with shared memory and context management
+- **Tool-use & function calling** — Agents that interact with APIs, databases, browsers, and external services autonomously
+- **RAG pipelines** — Retrieval-Augmented Generation for grounded, accurate, domain-specific AI applications
+- **LLM fine-tuning & prompt engineering** — Production-grade model behavior, not just demos
+- **Agent evaluation & observability** — Tracing, logging, and testing frameworks to keep autonomous systems trustworthy
+
+> Frameworks we work in: LangChain · LangGraph · AutoGen · CrewAI · OpenAI Assistants · Anthropic Claude API
+
+---
+
+## ◈ SaaS Development
+
+We build SaaS products from zero to production — not MVPs that fall apart at scale. Our SaaS work covers:
+
+- **Multi-tenant architecture** — Isolated data, custom domains, and per-tenant configuration
+- **Subscription & billing systems** — Stripe-integrated billing, plan tiers, usage metering, and invoicing
+- **Auth & access control** — SSO, OAuth2, RBAC, and enterprise-grade permission systems
+- **API design & developer experience** — RESTful and GraphQL APIs built for third-party integration
+- **SaaS analytics dashboards** — Real-time metrics, cohort analysis, and churn indicators baked in from day one
 
 ---
 
 ## ◈ Tech Stack
+
+#### AI & Agentic
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-64748B?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -59,15 +96,7 @@ I believe the most transformative companies are the ones that understand both th
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-#### Web3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-2EA44F?style=flat-square)
-![DeFi](https://img.shields.io/badge/DeFi-11B48A?style=flat-square)
-
-#### Backend & Databases
+#### Backend & SaaS Infrastructure
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -75,6 +104,15 @@ I believe the most transformative companies are the ones that understand both th
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+#### Web3 & Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-2EA44F?style=flat-square)
+![DeFi](https://img.shields.io/badge/DeFi-11B48A?style=flat-square)
 
 #### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -84,20 +122,14 @@ I believe the most transformative companies are the ones that understand both th
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-#### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
 ---
 
 ## ◈ GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=musasohail007&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=C8A96E&icon_color=C8A96E&text_color=a09c94&ring_color=C8A96E" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musasohail007&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=C8A96E&text_color=a09c94" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=musasohail007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=64748b&text_color=8b9ab0&ring_color=64748b" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musasohail007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=8b9ab0" />
 
 </div>
 
@@ -105,14 +137,16 @@ I believe the most transformative companies are the ones that understand both th
 
 ## ◈ Let's Build Something
 
-I'm always open to conversations about Web3 ventures, AI-driven product ideas, and strategic collaborations that push boundaries.
+I'm open to conversations about AI agent systems, SaaS product development, Web3 ventures, and strategic collaborations that push boundaries.
+
+If you're building something ambitious and need a technical partner who thinks in systems — let's talk.
 
 <div align="center">
 
 **The best time to build the future was yesterday. The next best time is now.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusa1/)
-[![Email](https://img.shields.io/badge/Send_a_Message-C8A96E?style=for-the-badge&logo=gmail&logoColor=white)](https://www.newweborder.co)
+[![Website](https://img.shields.io/badge/Visit_Righttail.co-64748B?style=for-the-badge&logo=safari&logoColor=white)](https://www.Righttail.co)
 
 </div>
 
@@ -120,8 +154,8 @@ I'm always open to conversations about Web3 ventures, AI-driven product ideas, a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A96E&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=64748B&height=80&section=footer" width="100%"/>
 
-*Right Tail Corp · Shaping the future of human-technology interaction*
+*Right Tail Corp · AI · SaaS · Web3 · Built for what's next*
 
 </div>
