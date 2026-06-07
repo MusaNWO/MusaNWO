@@ -21,7 +21,7 @@ We don't just ship products — we architect the infrastructure for what comes n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusa1/)
 [![Twitter](https://img.shields.io/badge/X-@musasohail007-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/musasohail007)
-[![Website](https://img.shields.io/badge/Web-newweborder.co-C8A96E?style=flat-square&logo=safari&logoColor=white)](https://www.newweborder.co)
+[![Website](https://img.shields.io/badge/Web-Righttail.co-C8A96E?style=flat-square&logo=safari&logoColor=white)](https://www.newweborder.co)
 
 </div>
 
