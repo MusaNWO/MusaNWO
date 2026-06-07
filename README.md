@@ -124,21 +124,6 @@ We build SaaS products from zero to production — not MVPs that fall apart at s
 
 ---
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=musasohail007&theme=github-dark&hide_border=true&background=0d1117&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=64748b&dates=4b5563" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musasohail007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=8b9ab0&langs_count=6" width="49%" />
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=musasohail007&color=64748b&style=flat-square&label=Profile+Views)
-
-</div>
-
 ---
 
 ## ◈ Let's Build Something
