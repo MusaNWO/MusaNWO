@@ -21,7 +21,7 @@ We don't just ship products — we architect the infrastructure for what comes n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusa1/)
 [![Twitter](https://img.shields.io/badge/X-@musasohail007-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/musasohail007)
-[![Website](https://img.shields.io/badge/Web-newweborder.co-64748B?style=flat-square&logo=safari&logoColor=white)](https://www.newweborder.co)
+[![Website](https://img.shields.io/badge/Web-righttail.co-64748B?style=flat-square&logo=safari&logoColor=white)](https://www.righttail.co)
 
 </div>
 
@@ -128,8 +128,14 @@ We build SaaS products from zero to production — not MVPs that fall apart at s
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=musasohail007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=64748b&text_color=8b9ab0&ring_color=64748b" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musasohail007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=8b9ab0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=musasohail007&theme=github-dark&hide_border=true&background=0d1117&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=64748b&dates=4b5563" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musasohail007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=8b9ab0&langs_count=6" width="49%" />
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=musasohail007&color=64748b&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -146,7 +152,7 @@ If you're building something ambitious and need a technical partner who thinks i
 **The best time to build the future was yesterday. The next best time is now.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmusa1/)
-[![Website](https://img.shields.io/badge/Visit_Righttail.co-64748B?style=for-the-badge&logo=safari&logoColor=white)](https://www.Righttail.co)
+[![Website](https://img.shields.io/badge/Visit_righttail.co-64748B?style=for-the-badge&logo=safari&logoColor=white)](https://www.righttail.co)
 
 </div>
 
